@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LandmanagementApplication<landmanagement>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.sded.landmanagement.LandmanagementApplication",
+            "projectName": "landmanagement",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LandmanagementApplication<landmanagement>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.opendoors.landmanagement.LandmanagementApplication",
+            "projectName": "landmanagement",
+            "args": ""
+        }
+    ]
+}
